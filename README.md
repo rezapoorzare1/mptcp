@@ -1,3 +1,3 @@
 # mptcp
-For the tutoria, watch this video:
+For the tutorial, watch this video:
 https://www.youtube.com/watch?v=24lodgelwqg
